@@ -111,6 +111,7 @@ Value = max(Immediate exercise, Discounted expected value)
 
 ### repo
 binomial-tree-visualizer/
+
 │
 ├── app.py
 
