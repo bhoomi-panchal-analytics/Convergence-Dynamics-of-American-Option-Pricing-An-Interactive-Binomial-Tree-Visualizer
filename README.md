@@ -1,14 +1,15 @@
 ** File Descriptions**
 
-app.py
+## app.py
 
 Streamlit UI
 
 Handles user input
 
-Calls pricing and visualization functions
+Calls pricing and visualization functions  
 
-pricing.py
+
+## pricing.py
 
 Binomial tree construction
 
@@ -18,7 +19,8 @@ European pricing logic
 
 Convergence loop
 
-visualization.py
+
+## visualization.py
 
 Tree plotting
 
@@ -26,7 +28,8 @@ Convergence graph
 
 Early exercise highlight
 
-utils.py
+
+## utils.py
 
 Helper functions
 
@@ -44,7 +47,8 @@ plotly
 
 pandas
 
-README.md
+
+## README.md
 
 Theory explanation
 
